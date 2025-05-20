@@ -1,4 +1,4 @@
-# Machine Learning with Python Projects
+## Machine Learning with Python Projects
 #### Rock Paper Scissors
 #### Cat and Dog Image Classifier
 #### Book Recommendation Engine using KNN
